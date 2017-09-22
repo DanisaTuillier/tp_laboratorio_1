@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1505830150 source:e:\tp_2_cascarad\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505830086 e:\tp_2_cascarad\funciones.h
+
+1506022244 source:f:\tp_2_cascarad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1506022244 f:\tp_2_cascarad\funciones.h
+
+1506010078 source:f:\tp_2_cascarad\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
